@@ -1,6 +1,7 @@
 {
-"spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+    "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+    "wallpaper":"https://深色壁纸.xxooo.cf/",
+    
 "sites":[
 {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
